@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNAB/Primer Trimestre/Mecánica/CINEMÁTICA.md",
+                "file": "UNAB/Primer Trimestre/Mecánica/2.-Cinemática/1.-Contenido.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CINEMÁTICA"
+              "title": "1.-Contenido"
+            }
+          },
+          {
+            "id": "967ccb3a9bd44a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNAB/Primer Trimestre/Mecánica/2.-Cinemática/2.-Términos y Fórmulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.-Términos y Fórmulas"
+            }
+          },
+          {
+            "id": "952f98c83ba29c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNAB/Primer Trimestre/Mecánica/2.-Cinemática/3.- MRU y MRUA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.- MRU y MRUA"
+            }
+          },
+          {
+            "id": "502a43f5fbd25382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNAB/Primer Trimestre/Mecánica/3.-Leyes de Newton/1.- Contenido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.- Contenido"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
     "id": "f96a9a02cc59ae6b",
@@ -185,17 +228,33 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "65e7b5e90ce5ba3c",
+  "active": "502a43f5fbd25382",
   "lastOpenFiles": [
-    "UNAB/Primer Trimestre/Mecánica/Leyes de newton.md",
-    "UNAB/Primer Trimestre/Mecánica/Clase 1.md",
-    "UNAB/Primer Trimestre/Mecánica/CINEMÁTICA.md",
+    "UNAB/Primer Trimestre/Mecánica/1.- Datos profe/1.- Datos profe.md",
+    "UNAB/Primer Trimestre/Mecánica/1.- Datos profe",
+    "UNAB/Primer Trimestre/Mecánica/3.-Leyes de Newton/1.- Contenido.md",
+    "UNAB/Primer Trimestre/Mecánica/3.-Leyes de Newton",
+    "UNAB/Primer Trimestre/Mecánica/2.-Cinemática/4.- Caída libre y lanzamiento vertical.md",
+    "z Imágenes",
+    "Pasted image 20261025164620.png",
+    "z Imágenes/Pasted image 20261025164625.png",
+    "z Imágenes/Pasted image 20261025162117.png",
+    "z Imágenes/Pasted image 20261025162100.png",
+    "z Imágenes/Pasted image 20261025162143.png",
+    "z Imágenes/Pasted image 20261025162247.png",
+    "z Imágenes/Pasted image 20261025162633.png",
+    "z Imágenes/Pasted image 20261025163035.png",
+    "z Imágenes/Pasted image 20261025163114.png",
+    "z Imágenes/Pasted image 20261025163207.png",
+    "UNAB/Primer Trimestre/Mecánica/2.-Cinemática/3.- MRU y MRUA.md",
+    "UNAB/Primer Trimestre/Mecánica/2.-Cinemática/2.-Términos y Fórmulas.md",
+    "UNAB/Primer Trimestre/Mecánica/2.-Cinemática/1.-Contenido.md",
+    "UNAB/Primer Trimestre/Mecánica/2.-Cinemática",
     "TCG_full/Power BI/DAX/Columnas nuevas/Una respuesta para todas las filas de la medición.md",
     "TCG_full/TCG/Guatemala/Tickets/McCormick Ajustes  nuevos KPI.md",
     "TCG_full/TCG/Guatemala/Tickets",
     "TCG_full/TCG/Guatemala",
     "TCG_full/TCG",
-    "TCG_full/AWS/IA/Aramco/Pasted image 20260617112008.png",
     "TCG_full/AWS/IA/Aramco/IA Baños.md",
     "TCG_full/SQL/Schema - Accesos/Crear Schema.md",
     "TCG_full/SQL/Schema - Accesos/Accesos.md",
@@ -205,10 +264,6 @@
     "TCG_full/SQL/CSV´s/Cargar nuevas preguntas a csv_questions.md",
     "TCG_full/Power BI/DAX/Columnas nuevas",
     "TCG_full/AWS/IA/Aramco",
-    "TCG_full/SQL/Schema - Accesos",
-    "TCG_full/SQL/Resportes",
-    "TCG_full/SQL/Puntajes",
-    "TCG_full/SQL/Pautas",
-    "TCG_full/SQL/CSV´s"
+    "TCG_full/SQL/Schema - Accesos"
   ]
 }
