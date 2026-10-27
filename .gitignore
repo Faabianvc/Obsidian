@@ -1,0 +1,7 @@
+# Estado de la interfaz de Obsidian (cambia constantemente, no versionar)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache y archivos temporales de Obsidian
+.obsidian/cache
+.trash/
