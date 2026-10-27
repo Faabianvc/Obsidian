@@ -23,3 +23,6 @@ ej:
 ![[Pasted image 20261027152710.png]]
 
 en los puntos criticos las pendientes o rectas tangentes no tiene inclinación (son rectas horizontales)
+
+
+quedamos en metodos de sustitución 1:30:00
